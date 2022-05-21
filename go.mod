@@ -1,4 +1,4 @@
-module github.com/cloudquery/cq-provider-template
+module github.com/andrewthetechie/cq-provider-datadog
 
 go 1.17
 

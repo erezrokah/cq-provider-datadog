@@ -3,7 +3,7 @@ package provider_test
 import (
 	"testing"
 
-	"github.com/cloudquery/cq-provider-template/resources/provider"
+	"github.com/andrewthetechie/cq-provider-datadog/resources/provider"
 
 	"github.com/cloudquery/cq-provider-sdk/migration"
 )

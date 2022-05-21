@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/cloudquery/cq-provider-sdk/migration"
-	"github.com/cloudquery/cq-provider-template/resources/provider"
+	"github.com/andrewthetechie/cq-provider-datadog/resources/provider"
 )
 
 func main() {
